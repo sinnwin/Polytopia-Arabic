@@ -1,14 +1,14 @@
 {
   "language": "عربي",
-  "startmenu.new_game": "NEW GAME",
-  "startmenu.multiplayer": "MULTIPLAYER",
-  "startmenu.resume_game": "RESUME GAME",
-  "startmenu.settings": "Settings",
-  "startmenu.high_score": "High Score",
-  "startmenu.throne_room": "Throne Room",
-  "startmenu.about": "About",
+  "startmenu.new_game": "لعبة جديدة",
+  "startmenu.multiplayer": "متعددة الاعبيين",
+  "startmenu.resume_game": "واصل اللعب",
+  "startmenu.settings": "خيارات",
+  "startmenu.high_score": "نتائج عالية",
+  "startmenu.throne_room": "غرفة العرش",
+  "startmenu.about": "معلومات",
 
-  "news.title": "POLYTOPIA NEWS",
+  "news.title": "اخبار عن بوليتوبية",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
   "gamemodepicker.title": "GAME MODE",
 
